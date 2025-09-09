@@ -1,4 +1,5 @@
 # AlpaTrade Bot
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ea286d28-22f8-45ee-b550-a95c59c0239c" />
 
 A comprehensive automated trading bot built with FastAPI and Alpaca API, featuring technical analysis, sentiment analysis, and risk management.
 
